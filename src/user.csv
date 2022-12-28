@@ -1,0 +1,4 @@
+id,ФИО,дата рождения,email,пароль,blocked
+1,Иванова А.А,10.01.2000,ivanova@mail.ru,qwerty,false
+2,Михайлова Ю.Е,12.04.1995,lol@mail.ru,dfewfs,false
+3,Зубарева Т.Е,04.04.2002,tzubareva@gmail.com,jakdjd,false
